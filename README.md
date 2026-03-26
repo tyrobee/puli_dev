@@ -13,5 +13,6 @@ s a simple dev board based of rp2040. It has everything that I would want on a d
 8. and finaly a button to enter into BOOTSEL mode so you can program you board.
 
 # schematic
-
+![S](./pictures/s.png)
 # PCB Layout
+![P](./pictures/p.png)
